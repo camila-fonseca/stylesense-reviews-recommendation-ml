@@ -1,0 +1,10 @@
+pyproject.toml
+src/__init__.py
+src/data.py
+src/evaluate.py
+src/features.py
+src/train.py
+stylesense_reviews_recommendation_ml.egg-info/PKG-INFO
+stylesense_reviews_recommendation_ml.egg-info/SOURCES.txt
+stylesense_reviews_recommendation_ml.egg-info/dependency_links.txt
+stylesense_reviews_recommendation_ml.egg-info/top_level.txt
